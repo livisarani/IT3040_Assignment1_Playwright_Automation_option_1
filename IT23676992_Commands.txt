@@ -2,6 +2,6 @@ PowerShell command to run from c:\Smart_Campus_Operations_Hub\IT3040_Assignment1
 
 python IT23676992_test_automation.py --excel "IT23676992_Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
 
-Do not use `test_automation/ IT23676992_Assignment 1 - Test cases.xlsx` because the extra space after the slash makes the file path invalid.
+Use the exact filename above and do not insert an extra space after the slash in any file path.
 
 
